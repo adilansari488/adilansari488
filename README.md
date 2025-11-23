@@ -1,14 +1,59 @@
-<h1 align="center">Hi 👋, My name is Adil Ansari</h1>
-<h3 align="center">I am a passionate Cloud & DevOps Engineer from India</h3>
+# Hi there, I'm Adil Ansari! 👋
 
-- 📔 You can find my articles [Dev.to](https://dev.to/adilansari)
+### ☁️ Cloud & DevOps Engineer
+I am a passionate DevOps Engineer specializing in **AWS and Azure**. I focus on automating infrastructure, building scalable CI/CD pipelines, and ensuring system observability.
 
-- 💬 Ask me about **AWS, Linux, DevOps**
+- 🔭 I’m currently working on **On-Prem Infra, Kubernetes and systems with ~100% SLAs**
+- 📝 I write technical articles on [Dev.to](https://dev.to/adilansari)
+- 💬 Ask me about **AWS, Docker, K8s, Terraform, Python, Automation, and DevOps**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adilansari488/)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🏆 Certifications
+I am a certified professional committed to continuous learning. Click the badges to verify.
+
 <p align="left">
-<a href="https://linkedin.com/in/adilansari488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adilansari488" height="30" width="40" /></a>
+  <a href="https://www.credly.com/badges/0b10aa6a-c7b4-4258-aacf-c7d69da736ed/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=FF9900" alt="AWS SAA" />
+  </a>
+  
+  <a href="https://rhtapps.redhat.com/verify?certId=230-271-777" target="_blank">
+    <img src="https://img.shields.io/badge/Red_Hat-Certified_System_Administrator_(RHCSA_v9)-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHCSA" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dev.azure.com" target="_blank" rel="noreferrer"> <img src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png" alt="Azure DevOps" width="40" height="40"/> </a>  <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" alt="Ansible" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Technical Arsenal
+
+| Category | Technologies |
+| :--- | :--- |
+| **☁️ Cloud Computing** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+| **🐳 Containers & Orch** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| **🏗️ IaC & Config** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white) |
+| **🔄 CI/CD & DevOps** | ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **📈 Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white) |
+| **🐍 Coding & OS** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+
+---
+
+### ✍️ Technical Writing
+Check out my latest articles on **Dev.to**:
+
+<a href="https://dev.to/adilansari">
+  <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Adil's Dev.to" />
+</a>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/adilansari488">
+    <img src="https://github-readme-stats.vercel.app/api?username=adilansari488&show_icons=true&theme=tokyonight&hide_border=true" alt="Adil's Stats" />
+  </a>
+  <a href="https://github.com/adilansari488">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilansari488&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  </a>
+</p>
