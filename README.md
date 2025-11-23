@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Adil Ansari</h1>
 <h3 align="center">I am a passionate Cloud & DevOps Engineer from India</h3>
 
-- 📔 I write articles on my blog on hashnode [DevOps is Fun](https://devopsisfun.hashnode.dev)
+- 📔 You can find my articles [Dev.to](https://dev.to/adilansari)
 
 - 💬 Ask me about **AWS, Linux, DevOps**
 
