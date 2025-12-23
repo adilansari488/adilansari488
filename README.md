@@ -1,11 +1,11 @@
 # Hi there, I'm Adil Ansari! 👋
 
-### ☁️ Cloud & DevOps Engineer
-I am a passionate DevOps Engineer specializing in **AWS and Azure**. I focus on automating infrastructure, building scalable CI/CD pipelines, and ensuring system observability.
+### ☁️ Cloud, DevOps & MLOps Engineer
+I am a passionate DevOps & MLOps Enginee. I focus on automating infrastructure, building secure CI/CD, ML pipelines, making ML models production ready, and ensuring system observability.
 
-- 🔭 I’m currently working on **On-Prem Infra, Kubernetes and systems with ~100% SLAs**
+- 🔭 I’m currently working on **On-Prem Infra, Kubernetes and making sure systems with ~100% SLAs**
 - 📝 I write technical articles on [Dev.to](https://dev.to/adilansari)
-- 💬 Ask me about **AWS, Docker, K8s, Terraform, Python, Automation, and DevOps**
+- 💬 Ask me about **AWS, Azure, Docker, K8s, Terraform, Python, Automation, DevOps, and MLOps**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adilansari488/)
 
 ---
