@@ -1,7 +1,7 @@
 # Hi there, I'm Adil Ansari! 👋
 
 ### ☁️ Cloud, DevOps & MLOps Engineer
-I am a passionate DevOps & MLOps Engineer. I focus on automating infrastructure, building secure CI/CD, ML pipelines, making ML models production ready, and ensuring system observability.
+I am a passionate Cloud, DevOps & MLOps Engineer. I focus on automating infrastructure, building secure CI/CD, ML pipelines, making ML models production ready, and ensuring system observability.
 
 - 🔭 I’m currently working on **On-Prem Infra, Kubernetes and making sure systems with ~100% SLAs**
 - 📝 I write technical articles on [Dev.to](https://dev.to/adilansari)
@@ -50,9 +50,6 @@ Check out my latest articles on **Dev.to**:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/adilansari488">
-    <img src="https://github-readme-stats.vercel.app/api?username=adilansari488&show_icons=true&theme=tokyonight&hide_border=true" alt="Adil's Stats" />
-  </a>
   <a href="https://github.com/adilansari488">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilansari488&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </a>
